@@ -9,9 +9,7 @@
 body {
     font-family:Lato, sans-serif;
     font-weight: 300;
-    color:grey;
-
-
+    color:red;
 }
 
 h1, h2 {
@@ -22,6 +20,36 @@ h1, h2 {
 }
 
 #logo {
-    float:left;
+    float: left;
     font-size: 250%;
+    text-decoration: underline;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float:right;
+    list-style-type: none;
+    margin-right: 10px
+} 
+
+#menu a {
+    text-decoration: none;
+    color:inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
 }
