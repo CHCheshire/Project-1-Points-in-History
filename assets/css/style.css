@@ -58,8 +58,32 @@ h1, h2 {
     height: 900px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
 }
 
+#cover-text {
+    width: 400px;
+    height: 100px;
+
+    padding-top:40px;
+    padding-left: 10px;
+
+    background-color: rgba(241, 109, 107, .7) ;
+
+    bottom:30px;
+    right: 350px;
+
+    position: absolute;
+}
+
+#cover-text, #cover-text h2 {
+    color:whitesmoke;
+    font-family: lato;
+    font-size: 130%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
 
 #hero-image {
     height: 900px;
