@@ -126,8 +126,7 @@ h1, h2 {
 /*What is warhammer*/
 
 #what-is-warhammer {
-    height:8000px;
-    margin-left: 10px;
+    padding: 0 0.5em;
 }
 
 #what-is-warhammer h1 {
@@ -135,22 +134,19 @@ h1, h2 {
     text-decoration: underline;
 }
 
-#intro {
-    width: 50%; 
-    padding-top: 15px;
+.intro {
+    /* width: 50%;  */
     font-size: 20px;
     font-family: Lato;
-    position: relative;
+    
 }
 
 
 #intro-image {
-    height: 800px;
-    width: 45%;
-    padding: 30px;
-    background: url('../images/Image-intro.jpg') no-repeat center center;
-    float: right;
-    position: relative; 
-    top: -300px;
-    margin-right:10px;
+    margin:auto;
+}
+
+#what-is-left {
+    padding-top: 0.5em;
+    display: flex;
 }
