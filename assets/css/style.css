@@ -22,8 +22,11 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 250%;
-    text-decoration: underline;
+    text-decoration: underline; 
+    margin-left:30px ;
 }
+
+/*Menu*/
 
 #menu {
     font-size: 110%;
@@ -53,6 +56,8 @@ h1, h2 {
 .active {
     border-bottom: 1px solid black;
 }
+
+/*Hero Image*/
 
 #hero-outer {
     height: 900px;
@@ -102,3 +107,23 @@ h1, h2 {
         transform: scale(1.2);
     }
 }
+
+/*What is warhammer*/
+
+#what-is-warhammer {
+    height:600px;
+    margin-left: 10px;
+}
+
+#what-is-warhammer h1 {
+    padding-top: 15px;
+    text-decoration: underline;
+}
+
+#intro {
+    width: 33%; 
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: Lato;
+}
+
