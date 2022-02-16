@@ -9,14 +9,29 @@
 body {
     font-family:Lato, sans-serif;
     font-weight: 300;
-    color:red;
+    color:#CD7F32;
+}
+
+body p {
+    font-family:Gideon Roman, sans-serif;
+    font-weight: 200;
+    color: #E5E4E2;
+    padding-top:5px;
+}
+
+body h4 {
+    font-family: lato, sans-serif;
+    font-weight:300;
+    color: #CD7F32;
+    text-decoration: underline;
+    letter-spacing: 1px;
 }
 
 h1, h2 {
     font-family: Lato;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: black;
+    color: white;
 }
 
 #logo {
@@ -111,7 +126,7 @@ h1, h2 {
 /*What is warhammer*/
 
 #what-is-warhammer {
-    height:600px;
+    height:8000px;
     margin-left: 10px;
 }
 
@@ -121,9 +136,21 @@ h1, h2 {
 }
 
 #intro {
-    width: 33%; 
+    width: 50%; 
     padding-top: 15px;
     font-size: 20px;
     font-family: Lato;
+    position: relative;
 }
 
+
+#intro-image {
+    height: 800px;
+    width: 45%;
+    padding: 30px;
+    background: url('../images/Image-intro.jpg') no-repeat center center;
+    float: right;
+    position: relative; 
+    top: -300px;
+    margin-right:10px;
+}
