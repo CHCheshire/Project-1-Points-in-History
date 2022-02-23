@@ -173,6 +173,13 @@ h1, h2 {
     background-color: blue;
 }
 
+#left-about h2 { 
+    width:60%;
+    float: right;
+    line-height: 20px;
+    text-decoration: underline;
+}
+
 #right-about {
     padding-top: 30px;
     width: 33%;
