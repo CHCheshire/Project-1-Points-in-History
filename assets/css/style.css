@@ -199,13 +199,13 @@ h1, h2 {
     width: 33%;
     margin:0 auto;
     /* background-color: red; */
-    padding-top: 30px;
+    padding-top: 100px;
 
 }
 
 #center-image { 
     width:600px;
-    height:800px;
+    height:1000px;
     /* padding-top: 30px; */
     border-style:solid;
     border-color:black;
