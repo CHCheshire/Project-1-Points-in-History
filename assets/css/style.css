@@ -152,13 +152,13 @@ h1, h2 {
     display: flex;
 }
 
-/* warhammer-universes section */
+/* wh-40,000 section */
 
-#warhammer-display { 
-    display: flex;
+#wh-40000 { 
+    /* display: flex; */
 }
 
-#warhammer-universes h1 {
+#wh-40000 h1 {
     text-decoration: underline;
     text-align: center;
     font-size: 32px;
@@ -166,14 +166,17 @@ h1, h2 {
 
 }
 
-#left-about {
+.left-about {
+    display: flex;
     padding-top: 15px;
-    width: 33%;
-    float: left;
+    align-items: center;
+    justify-content: center;
+    /* width: 33%; */
+    /* float: left; */
     /* background-color: blue; */
 }
 
-#left-about h3 { 
+.text h3 { 
     /* width:60%;  */
     /* float: right; */
     line-height: 20px;
@@ -181,36 +184,17 @@ h1, h2 {
     color:#CD7F32;
     text-align:center;
     font-size: 20px;
+    /* padding-top: 30px; */
 } 
 
-#left-about p {
-    padding-top: 0.2em;
+.text p {
+    /* padding-top: 10px; */
     font-size: 20px;
 }
 
-#right-about {
-    padding-top: 15px;
-    width: 33%;
-    float: right; 
-    background-color: gold;
-}
-
-#center-about {
-    width: 33%;
-    margin:0 auto;
-    /* background-color: red; */
-    padding-top: 100px;
-
-}
-
-#center-image { 
-    width:600px;
-    height:1000px;
-    /* padding-top: 30px; */
-    border-style:solid;
-    border-color:black;
-    border-width: 3px;
-    /* border-radius:90%; */
-    margin: 0 auto; 
-    
+.images {
+    height:300px;
+    max-width: 100%; 
+    flex-basis: 40%;
+    padding-top: 0.5em;
 }
