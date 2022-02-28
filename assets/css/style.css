@@ -210,3 +210,11 @@ h1, h2 {
     margin: auto;
     padding: 0.5em;
 }
+
+#wh-aos h1 {
+    text-decoration: underline;
+    text-align: center;
+    padding: 0.5em;
+    font-size: 32px;
+    padding-top: 1em;
+}
