@@ -96,10 +96,6 @@ h1, h2 {
     position: relative;
 }
 
-@media only screen {
-    
-}
-
 #cover-text {
     width: 400px;
     height: 100px;
@@ -248,6 +244,19 @@ h1, h2 {
     [class="images"] {
     width: 450px;
     height: 300px;
+    }
+    #cover-text {
+        left:0;
+    }
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom:20px; 
+        line-height:25px;
+    }
+    #logo {
+        font-size:24px;
     }
 }
 
