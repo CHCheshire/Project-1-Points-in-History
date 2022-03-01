@@ -28,7 +28,7 @@ The navigation bar is there to help the reader navigate the page and it is set u
 
  The What is Warhammer section is there to give brief overview of the hobby, what the setting is and how it's actually played. This section is a mixture of personal insight and information as I wanted to include the thoughts I had when getting into the hobby, both as a teenager and now as an adult. 
 
-![Club Ethos](documentation/what-is-warhammer.png)
+![What is Warhammer](documentation/what-is-warhammer.png)
 
 - __Warhammer:40,000 section__
 
@@ -40,36 +40,29 @@ The navigation bar is there to help the reader navigate the page and it is set u
 
 This section is here to inform the user of the fantasy setting that is Warhammer: Age of Sigmar and the races that inhabit it as well. This again is designed to be more informative and detailed than the What is Warhammer section.
 
+![Warhammer:Age of Sigmar](documentation/wh-aos.png)
+
 - __Warhammer Games section__
 
 This section is here to go into details on the universe of Warhammer 40,000; To describe what it's like, what humanity is like in this setting and the other alien and demonic races within it as well. This is meant to inform the user in greater detail compared to the brief overview from the What is Warhammer section that precedes it. 
 
+![Warhammer Games](documentation/wh-games.png)
+
 - __The Footer__ 
 
-  This has a link to my linkedin and github repository and also a sign up form for people who want to learn more about the hobby. 
+  This has a link to my linkedin and github repository and also to say that the website is made by me. 
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Footer](documentation/footer.png)
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The sign up page is to allow users to sign up for more content and information regarding Warhammer. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- Another feature idea
+- 
 
 ## Testing 
 
@@ -85,9 +78,9 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fchcheshire.github.io%2FProject-1-Warhammer%2F)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchcheshire.github.io%2FProject-1-Warhammer%2F)
 
 ### Unfixed Bugs
 
@@ -121,9 +114,23 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
+  The text I used was written by myself. The lore, Warhammer, Warhammer:40,000 and Warhammer: Age of Sigmar are properties of Games Workshop [Games Workshop](https://www.games-workshop.com/en-GB/Home) 
+
+  Total War: Warhammer is a product made by Creative Assembly [Creative Assembly](https://www.creative-assembly.com/)
+
+  The Dawn of War series and Warhammer 40,000: Space Marine are both products made by Relic games [Relic](https://www.relic.com/)
+
+  The instructions on how to implement the header were from the Love Running 04: Header structure video [Media Upload](https://www.youtube.com/watch?v=t1vkQ3zJCJs) 
+
+  The instructions for implementing the hero image were taken from this video [Media Upload](https://www.youtube.com/watch?v=85Ke-cdu6QQ)
+
+  The Hero image animation for it zooming in were taken from this video [Media Upload](https://www.youtube.com/watch?v=85Ke-cdu6QQ)
+
+  The design for the text aligning with the images were taken from this tutorial on W3Schools [W3Schools](https://www.w3schools.com/css/css_align.asp) 
+
+  
+
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
