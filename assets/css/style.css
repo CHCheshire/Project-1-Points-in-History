@@ -26,6 +26,13 @@ body {
     background-color: #34282C;
 }
 
+@media only screen and (max-width: 768px) {
+    body {
+    width: 100%;
+    display: block;
+    }
+}
+
 body p {
     font-family:Gideon Roman, sans-serif;
     font-weight: 200;
@@ -204,14 +211,6 @@ h1, h2 {
     /* float: left; */
 }
 
-@media only screen and (max-width: 600px) {
-     [class="wh-container"] {
-        width:100%;
-        display:block;
-     }
-    }
-
-
 .text h3 { 
     /* width:60%;  */
     /* float: right; */
@@ -257,6 +256,11 @@ h1, h2 {
 }
 
 /* Warhammer games */
+
+#wh-games {
+    border-top: 5px solid black;
+    padding: 20px;
+}
 
 #wh-games h1 {
     text-decoration: underline;
