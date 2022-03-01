@@ -106,3 +106,39 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+# An Introduction to Warhammer # 
+ 
+This is a website that is supposed to be an insight to the game, universe and hobby that is Warhammer. I want it to be both informative for people who haven't played the game or for people who don't know much about it and I also want it that to be from a personal point of view as it's something I grew up playing and made a lot of good friends whilst 
+I played as a teenager. The website is split into four sections; What is warhammer which is a brief overview of the hobby and game, Warhammer 40,000 which focuses on the lore
+and factions within that and Age of Sigmar which focuses on the lore and factions within that universe as well. Finally there is the Warhammer games section which are video games that are based in universe to show Warhammer represented in a different form of media. 
+
+# Features #
+
+## Navigation Bar ## 
+
+The navigation bar is there to help the reader navigate the page and it is set up so that the transitions are smooth once clicked. It's also in a fixed position on the page so that it will always be visible to the user to help with navigation.
+
+## Landing Page image ## 
+
+This image is here to state what Warhammer is, a tabletop strategy game, but is mostly meant to draw the reader in. To help with this, I added a zoom animation to the image that plays when the page loads to catch the readers eye. 
+
+## What is Warhammer section ## 
+
+The What is Warhammer section is there to give brief overview of the hobby, what the setting is and how it's actually played. This section is a mixture of personal insight and information as I wanted to include the thoughts I had when getting into the hobby, both as a teenager and now as an adult. 
+
+## Warhammer: 40,000 section ## 
+
+This section is here to go into details on the universe of Warhammer 40,000; To describe what it's like, what humanity is like in this setting and the other alien and demonic races within it as well. This is meant to inform the user in greater detail compared to the brief overview from the What is Warhammer section that precedes it. 
+
+## Warhammer: Age of Sigmar section ## 
+
+This section is here to inform the user of the fantasy setting that is Warhammer: Age of Sigmar and the races that inhabit it as well. This again is designed to be more informative and detailed than the What is Warhammer section. 
+
+## Warhammer games section ##
+
+This section is for the video games that are based in the warhammer universe, specifically ones that are personal to me as some of them I grew up playing such as the Dawn of War series. 
+
+
+
