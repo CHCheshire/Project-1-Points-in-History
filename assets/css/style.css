@@ -26,13 +26,6 @@ body {
     background-color: #34282C;
 }
 
-@media only screen and (max-width: 768px) {
-    body {
-    width: 100%;
-    display: block;
-    }
-}
-
 body p {
     font-family:Gideon Roman, sans-serif;
     font-weight: 200;
@@ -96,11 +89,15 @@ h1, h2 {
 /*Hero Image*/
 
 #hero-outer {
-    height: 900px;
+    height: auto;
     width: 100%;
     overflow: hidden;
 
     position: relative;
+}
+
+@media only screen {
+    
 }
 
 #cover-text {
@@ -113,7 +110,7 @@ h1, h2 {
     background-color: rgba(241, 109, 107, .7) ;
 
     bottom:30px;
-    right: 350px;
+    right: 250px;
 
     position: absolute;
 }
@@ -245,6 +242,13 @@ h1, h2 {
     /* padding-top: 0.5em; */
     margin: auto;
     padding: 0.5em;
+}
+
+@media only screen and (max-width: 768px) {
+    [class="images"] {
+    width: 450px;
+    height: 300px;
+    }
 }
 
 /* Warhammer Age of Sigmar */
