@@ -13,9 +13,10 @@ html {
 
 header {
     position: fixed;
-    background-color: #34282C;
+    background-color: black;
     width: 100%;
     z-index: 1;
+    box-shadow: 0 20px 15px 0 rgba(0, 0, 0, 0.5);
 }
 
 
@@ -264,12 +265,12 @@ h1, h2 {
 }
 
 @media only screen and (max-width: 768px) {
-    [class="images"] {
+    .images {
     width: 90%;
     height: 300px;
     margin: 0 auto;
     }
-    [class="wh-container"] {
+    .wh-container {
         width: 100%;
         display: block;
     }
@@ -304,3 +305,13 @@ h1, h2 {
         font-size:24px;
     }
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
