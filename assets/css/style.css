@@ -204,13 +204,6 @@ h1, h2 {
     /* float: left; */
 }
 
-@media only screen and (max-width: 768px) {
-    [class="wh-container"] {
-    width: 100%;
-    display: block;
-    }
-}
-
 .text h3 { 
     /* width:60%;  */
     /* float: right; */
@@ -238,26 +231,6 @@ h1, h2 {
     /* padding-top: 0.5em; */
     margin: auto;
     padding: 0.5em;
-}
-
-@media only screen and (max-width: 768px) {
-    [class="images"] {
-    width: 450px;
-    height: 300px;
-    }
-    #cover-text {
-        left:0;
-    }
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom:20px; 
-        line-height:25px;
-    }
-    #logo {
-        font-size:24px;
-    }
 }
 
 /* Warhammer Age of Sigmar */
@@ -288,4 +261,34 @@ h1, h2 {
     padding: 0.5em;
     font-size: 32px;
     padding-top: 1em;
+}
+
+@media only screen and (max-width: 768px) {
+    [class="images"] {
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+    }
+    [class="wh-container"] {
+        width: 100%;
+        display: block;
+    }
+    #cover-text {
+        left:0;
+        width: 100%;
+    }
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom:20px; 
+        line-height:25px;
+        font-size: 14px;
+        letter-spacing: 0px;
+    }
+    #logo {
+        font-size:18px;
+        letter-spacing:1px;
+        margin-left:10px;
+    }
 }
