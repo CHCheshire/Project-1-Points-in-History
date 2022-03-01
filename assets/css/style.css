@@ -291,4 +291,16 @@ h1, h2 {
         letter-spacing:1px;
         margin-left:10px;
     }
+    #what-is-warhammer h1 {
+        font-size:24px;
+    }
+    #wh-40000 h1 {
+        font-size:24px;
+    }
+    #wh-aos h1 {
+        font-size:24px;
+    }
+    #wh-games h1 {
+        font-size:24px;
+    }
 }
