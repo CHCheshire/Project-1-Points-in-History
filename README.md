@@ -58,15 +58,11 @@ This section is here to go into details on the universe of Warhammer 40,000; To 
 
 ![Subscribe](documentation/subscribe.png)
 
-### Features Left to Implement
-
-- 
-
 ## Testing 
 
 The goal of this project is to provide a website to inform the user in a simple, digestible format about Warhammer and the different aspects to it. The main features of the website are the navigation bar, the hero image, the text and images and the submission form. 
 
-There was a lot of testing and issues when it came to trying to solve the media query however I didn't run into as many interesting issues when coding the main features of the page, mostly formatting issues. The navigation bar allows the user to easily navigate the page and I've set it up so that when a link is clicked the transition between pages is done smoothly rather than suddenly jumping down to it. The hero image is there to catch the users attention and is set up so that it is animated to zoom in when the page loads up. The text and images is set up in a design using display:flex; each one is it's own div that is styled using display:flex to format it. I also have all the images the same size to keep them uniform as the images naturally are all different sizes. Finally, the submission form is there to allow the user to sign up with their email address to potentially receive more information about Warhammer. This doesn't actually do anything, I don't plan on making a warhammer newsletter for people who sign up, but I wanted this here to try to show off different skills in html and css, to show that I can make and style a form. 
+There was a lot of testing and issues when it came to trying to solve the media query however I didn't run into that many interesting issues when coding the main features of the page, mostly just formatting issues. The navigation bar allows the user to easily navigate the page and I've set it up so that when a link is clicked the transition between pages is done smoothly rather than suddenly jumping down to it. The hero image is there to catch the users attention and is set up so that it is animated to zoom in when the page loads up. The text and images is set up in a design using display:flex; each one is it's own div that is styled using display:flex to format it. I also have all the images the same size to keep them uniform as the images naturally are all different sizes. Finally, the submission form is there to allow the user to sign up with their email address to potentially receive more information about Warhammer. This doesn't actually do anything, I don't plan on making a warhammer newsletter for people who sign up, but I wanted this here to try to show off different skills in html and css, to show that I can make and style a form. 
 
 As mention above, a big sticking point for this project was trying to make it responsive for mobile devices. This was due to several reasons; my method of layout and the long names listed in the header. These two parts of the website would break on smaller screens, the menu would end up on top of itself and the text would stretch whilst the image remain static. 
 
@@ -143,10 +139,6 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 
 ## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 ### Content 
 
