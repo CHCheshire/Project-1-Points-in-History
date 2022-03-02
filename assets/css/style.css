@@ -151,6 +151,18 @@ h1, h2 {
     font-size: 32px;
 }
 
+#what-is-warhammer h2 {
+    font-family: Lato;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    font-size:32px;
+    padding:0.5em;
+    padding-top:1em;
+}
+
 #what-is-warhammer h3 {
     line-height: 20px;
     text-decoration: underline;
@@ -194,6 +206,18 @@ h1, h2 {
     font-size: 32px;
     padding-top: 1em;
 
+}
+
+#wh-40000 h2 {
+    font-family: Lato;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    font-size:32px;
+    padding:0.5em;
+    padding-top:1em;
 }
 
 .wh-container {
@@ -249,6 +273,18 @@ h1, h2 {
     padding-top: 1em;
 }
 
+#wh-aos h2 {
+    font-family: Lato;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    font-size:32px; 
+    padding:0.5em;
+    padding-top:1em;
+}
+
 /* Warhammer games */
 
 #wh-games {
@@ -262,6 +298,18 @@ h1, h2 {
     padding: 0.5em;
     font-size: 32px;
     padding-top: 1em;
+}
+
+#wh-games h2 {
+    font-family: Lato;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    font-size:32px; 
+    padding:0.5em;
+    padding-top:1em;
 }
 
 
