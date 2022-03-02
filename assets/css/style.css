@@ -121,7 +121,7 @@ h1, h2 {
 }
 
 #hero-image {
-    height: 900px;
+    height: 1000px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
     animation-name: hero-zoom;
@@ -131,10 +131,10 @@ h1, h2 {
 
 @keyframes hero-zoom {
     from {
-        transform: scale(1);
+        transform: scale(1.2);
     }
     to {
-        transform: scale(1.2);
+        transform: scale(1.5);
     }
 }
 
@@ -405,6 +405,6 @@ h1, h2 {
 }
 
 #subscribe input[type=submit] {
-    width:5%; 
+    width:100px; 
     height: 20px;
     }
