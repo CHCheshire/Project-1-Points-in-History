@@ -54,11 +54,11 @@ This section is here to go into details on the universe of Warhammer 40,000; To 
 
 ![Footer](documentation/footer.png)
 
-- __The Sign Up Page__
+- __The Subscribe Page__
 
-  - The sign up page is to allow users to sign up for more content and information regarding Warhammer. 
+  - The subscribe page is to allow users to subscribe for more content and information regarding Warhammer. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Subscribe](documentation/subscribe.png)
 
 ### Features Left to Implement
 
@@ -128,9 +128,7 @@ You can break the credits section up into Content and Media, depending on what y
 
   The design for the text aligning with the images were taken from this tutorial on W3Schools [W3Schools](https://www.w3schools.com/css/css_align.asp) 
 
-  
-
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+  The styling for the subscribe from came from this tutorial on W3Schools [W3Schools](https://www.w3schools.com/howto/howto_css_signup_form.asp)
 
 ### Media
 
